@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muhmmad.Sufyan
 - 👀 I’m interested in App and Webdevelopment with flutter
-- 🌱 I’m currently learning flutter,Python,C ,C++,SQL,Googlefirebase
+- 🌱 flutter,Python,C ,C++,SQL,Googlefirebase
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sufyanmughal485@gmail,+923204425566
 - 😄 Pronouns:HE/Him
