@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Muhmmad.Sufyan
-- 👀 I’m interested in App and Webdevelopment with flutter
-- 🌱 flutter,Python,C ,C++,SQL,Googlefirebase
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in App(Android & Ios) and Webdevelopment with flutter
+- 🌱 Flutter,Python,C,C++,SQL,Googlefirebase,SupaBase
+- 💞️ I’m looking to collaborate on Projects related to Flutter App Development and React App Development
 - 📫 How to reach me sufyanmughal485@gmail,+923204425566
 - 😄 Pronouns:HE/Him
 - ⚡ Fun fact: ...
