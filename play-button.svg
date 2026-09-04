@@ -1,0 +1,149 @@
+<svg width="420" height="110" viewBox="0 0 420 110" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="bg" x1="20" y1="15" x2="400" y2="100" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827"/>
+      <stop offset="1" stop-color="#0B1120"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="40" y1="20" x2="380" y2="90" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="0.5" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#6366F1"/>
+    </linearGradient>
+
+    <linearGradient id="button" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#172033"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+  </defs>
+
+  <!-- Bottom physical layer -->
+  <rect
+    x="12"
+    y="16"
+    width="396"
+    height="82"
+    rx="18"
+    fill="#050914"
+    stroke="#1E293B"
+    stroke-width="2"
+  />
+
+  <!-- Main layered body -->
+  <rect
+    x="8"
+    y="10"
+    width="396"
+    height="82"
+    rx="18"
+    fill="url(#bg)"
+    stroke="url(#accent)"
+    stroke-width="2"
+  />
+
+  <!-- Small accent line -->
+  <rect
+    x="28"
+    y="10"
+    width="75"
+    height="3"
+    rx="1.5"
+    fill="#22D3EE"
+  />
+
+  <!-- Play button -->
+  <rect
+    x="27"
+    y="27"
+    width="56"
+    height="48"
+    rx="14"
+    fill="url(#button)"
+    stroke="#334155"
+    stroke-width="1.5"
+  />
+
+  <!-- Play button inner layer -->
+  <rect
+    x="32"
+    y="32"
+    width="46"
+    height="38"
+    rx="10"
+    fill="#0B1220"
+  />
+
+  <!-- Play triangle -->
+  <path
+    d="M49 40L49 62L66 51L49 40Z"
+    fill="url(#accent)"
+  />
+
+  <!-- Decorative terminal mark -->
+  <text
+    x="100"
+    y="48"
+    fill="#64748B"
+    font-family="monospace"
+    font-size="12"
+    font-weight="600"
+  >&gt;_</text>
+
+  <!-- Main title -->
+  <text
+    x="126"
+    y="51"
+    fill="#F8FAFC"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="20"
+    font-weight="700"
+    letter-spacing="1"
+  >
+    PLAY: SUFYAN STACK MATCH
+  </text>
+
+  <!-- Subtitle -->
+  <text
+    x="126"
+    y="70"
+    fill="#94A3B8"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="11"
+    letter-spacing="1.5"
+  >
+    FLUTTER • PYTHON • CYBER SECURITY
+  </text>
+
+  <!-- Right accent indicator -->
+  <circle
+    cx="379"
+    cy="51"
+    r="6"
+    fill="#22D3EE"
+  />
+
+  <circle
+    cx="379"
+    cy="51"
+    r="10"
+    stroke="#22D3EE"
+    stroke-opacity="0.25"
+    stroke-width="1"
+  />
+
+  <!-- Bottom tiny line -->
+  <rect
+    x="28"
+    y="82"
+    width="340"
+    height="1"
+    rx="0.5"
+    fill="#1E293B"
+  />
+
+</svg>
