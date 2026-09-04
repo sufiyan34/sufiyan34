@@ -17,7 +17,7 @@
 <a href="https://github.com/sufiyan34">
   <img src="https://img.shields.io/badge/GitHub-sufiyan34-181717?style=for-the-badge&logo=github" />
 </a>
-<a href="https://www.linkedin.com/in/muhammad-sufyan485">
+<a href="https://www.linkedin.com/in/muhmmad-sufyan485">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 <a href="mailto:sufyanmughal485@gmail.com">
